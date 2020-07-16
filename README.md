@@ -1,5 +1,4 @@
 # Bean-Leaf
-CSCI 310 Project 2
 
 **Project Description**
 Android application designed to connect coffee shops with merchants. Stores can register their shops and add menus so merchants can view and buy. In addition, stores have to get approved by a master account. The purpose of this application was to understand Android Development process. Lastly, our group was choosen as the best application for this idea.
